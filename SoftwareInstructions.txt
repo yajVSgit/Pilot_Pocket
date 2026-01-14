@@ -238,7 +238,7 @@ and voilà ;-)
 
 ARDUPILOT
 Make Firmware as per BBBMINI instructions:
-https://github.com/mirkix/BBBMINI/blob/master/doc/software/software.md
+
 and build using pocket profile:
 /waf configure --board=pocket
 
